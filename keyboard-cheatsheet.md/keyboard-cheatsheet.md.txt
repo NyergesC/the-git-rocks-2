@@ -1,0 +1,26 @@
+round brackets: ()
+square brackets: []
+curly brackets: {}
+Angles: <>
+Single quote: '
+Double quote: "
+backtick: `
+Slash: /
+backslash: \
+bar: |
+Tilde: ~
+Exlamation mark: !
+question mark: ?
+at: @ 
+Hash: #
+dollar sign: $
+Percent: %
+Ampersand: &
+Asterisk: *
+Dash: -
+plus: +
+equal: =
+colon: :
+semicolon: ;
+dot: .
+comma: ,
